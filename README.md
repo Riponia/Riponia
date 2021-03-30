@@ -46,6 +46,9 @@ Les fichiers de configurations de ces plugins ne sont, pour des raisons évident
 
 * BetterFPS
 * CustomNPCs
-* RiponiaMod | Rappel: il est strictement interdit de redistribuer ou utiliser ce mod publiquement / de façon commerciale. Vous pouvez consulter les (CGU)[https://riponia.tk/CGU] pour plus d'informations. 
+* RiponiaMod | Rappel: il est strictement interdit de redistribuer ou utiliser ce mod publiquement / de façon commerciale. Vous pouvez consulter les [CGU](https://riponia.tk/CGU) pour plus d'informations. 
+* SecretRoomsMod
 
 ### Côté Client
+
+Liste en cours de création...

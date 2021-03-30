@@ -52,5 +52,14 @@ Vous pouvez retrouver tous les mods dans le dossier [/mods](https://github.com/R
 * SecretRoomsMod
 
 ### Côté Client
-
-Liste en cours de création...
+* BetterFPS
+* BetterPvP (Fairplay)
+* CusomMainMenu
+* CustomNPCs
+* Millenium
+* NotEnoughItems
+* Optifine
+* ResourceLoader
+* RiponiaMod | (Voir Rappel ci-dessus)
+* SecretRoomsMod
+* TcpNoDelay

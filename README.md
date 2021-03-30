@@ -48,6 +48,7 @@ Vous pouvez retrouver tous les mods dans le dossier [/mods](https://github.com/R
 
 * BetterFPS
 * CustomNPCs
+* Millenium
 * RiponiaMod | Rappel: il est strictement interdit de redistribuer ou utiliser ce mod publiquement / de façon commerciale. Vous pouvez consulter les [CGU](https://riponia.tk/CGU) pour plus d'informations. 
 * SecretRoomsMod
 

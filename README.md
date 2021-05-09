@@ -11,6 +11,7 @@ Riponia est un serveur Minecraft PvP/Faction créé par Ruip et Natoune en 2021.
 ## Plugins
 
 Vous pouvez retrouver tous les plugins dans le dossier [/plugins](https://github.com/Riponia/Riponia/tree/main/plugins) et une liste ici:
+#### LE SERVEUR ÉTANT ENCORE EN DÉVELOPPEMENT, CETTE LISTE N'EST PAS COMPLÈTE !
 
 * AdvancedBan
 * B2MC
@@ -43,6 +44,7 @@ Les fichiers de configurations de ces plugins ne sont, pour des raisons évident
 ## Mods
 
 Vous pouvez retrouver tous les mods dans le dossier [/mods](https://github.com/Riponia/Riponia/mods) et une liste ici:
+#### LE SERVEUR ÉTANT ENCORE EN DÉVELOPPEMENT, CETTE LISTE N'EST PAS COMPLÈTE !
 
 ### Côté Serveur
 

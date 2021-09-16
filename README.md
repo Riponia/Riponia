@@ -51,7 +51,7 @@ Vous pouvez retrouver tous les mods dans le dossier [/mods](https://github.com/R
 * BetterFPS
 * CustomNPCs
 * Millenium
-* RiponiaMod | Rappel: il est strictement interdit de redistribuer ou utiliser ce mod publiquement / de façon commerciale.
+* RiponiaMod
 * SecretRoomsMod
 
 ### Côté Client
@@ -63,6 +63,6 @@ Vous pouvez retrouver tous les mods dans le dossier [/mods](https://github.com/R
 * NotEnoughItems
 * Optifine
 * ResourceLoader
-* RiponiaMod | (Voir Rappel ci-dessus)
+* RiponiaMod | Rappel: il est strictement interdit de redistribuer ou utiliser ce mod publiquement / de façon commerciale.
 * SecretRoomsMod
 * TcpNoDelay

@@ -7,6 +7,7 @@ Riponia est un serveur Minecraft PvP/Faction créé par Ruip et Natoune en 2021.
 - [Mods](#mods)
   - [Côté Serveur](#côté-serveur)
   - [Côté Client](#côté-client)
+- [Nous retrouver](#nous-retrouver)
 
 ## Plugins
 
@@ -66,3 +67,12 @@ Vous pouvez retrouver tous les mods dans le dossier [/mods](https://github.com/R
 * RiponiaMod | Rappel: il est strictement interdit de redistribuer ou utiliser ce mod publiquement / de façon commerciale.
 * SecretRoomsMod
 * TcpNoDelay
+
+# Nous retrouver
+Discord: https://discord.gg/UJaQFRrNGR<br>
+[![Riponia - YouTube](https://img.shields.io/static/v1?label=Riponia&message=YouTube&color=red&logo=youtube)](https://www.youtube.com/channel/UCmiUA3YW05-F1rWzhDZMu_w)<br>
+[![Site - riponia.tk](https://img.shields.io/static/v1?label=Site&message=riponia.tk&color=orange&logo=CodersRank)](https://natoune.tk/)<br>
+[![Twitter - Riponia](https://img.shields.io/static/v1?label=Riponia&message=Twitter&color=blue&logo=twitter)](https://twitter.com/RiponiaPVP/)<br>
+[![Mail - contact@riponia.tk](https://img.shields.io/static/v1?label=Contact%20mail&message=contact@riponia.tk&color=lightgreen&logo=gmail)](mailto:contact@riponia.tk)<br><br><br>
+et pour nous soutenir:<br>
+<a href="https://buymeacoffee.com/Natoune"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" width=200></a>
